@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "authors": [
+    "Mohammad Anwari <mdamt@mdamt.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fabric": "~1.4.13",
+    "angular-fabric": "~1.0.0",
+    "angular": "~1.3.15",
+    "angular-ui-router": "~0.2.13",
+    "angular-animate": "~1.3.15",
+    "lodash": "~3.6.0"
+  }
+}
